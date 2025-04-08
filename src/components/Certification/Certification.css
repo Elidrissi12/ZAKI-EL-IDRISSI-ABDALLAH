@@ -1,0 +1,51 @@
+/* src/components/Certification/Certification.css */
+
+#certification {
+    padding: 60px 0;
+    background-color: #fafafa;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #333;
+  }
+  
+  .certificates {
+    display: flex;
+    gap: 30px;
+    flex-wrap: nowrap; /* Prevent wrapping */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding-bottom: 20px; /* Optional: Add space below the container */
+    margin-top: 20px;
+  }
+  
+  .certificate-card {
+    min-width: 400px; /* Larger width for the certificate cards */
+    height: 500px; /* Larger height */
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+    text-decoration: none; /* Remove underline on link */
+    flex-shrink: 0; /* Prevent shrinking */
+  }
+  
+  .certificate-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .certificate-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image fits the entire card */
+  }
+  
+  .certificate-card p {
+    display: none; /* Hides the text for each certificate */
+  }
+  
