@@ -67,7 +67,7 @@ function Hero() {
   <Image
     src="/images/ph.png"
     alt="man-svgrepo"
-    style={{ width: '300px', height: 'auto' }} // Changez les dimensions selon vos besoins
+    style={{ width: '400px', height: 'auto' }} // Changez les dimensions selon vos besoins
   />
 </ScrollAnimation>
 

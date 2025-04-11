@@ -10,7 +10,7 @@ function Certification() {
       <div className="certificates">
         {/* Certification 1 */}
         <a
-          href="https://coursera.org/share/b02f169c6d47ed5a6b9efa5f82811413"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -25,7 +25,7 @@ function Certification() {
 
         {/* Certification 2 */}
         <a
-          href="https://coursera.org/share/bc4e7884d85063187c799b86c1c0d699"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -51,7 +51,7 @@ function Certification() {
           <p>Certification 4</p>
         </a>
         <a
-          href="https://coursera.org/share/90804cd58eed9e1016b32a6b7552f5d9"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -64,7 +64,7 @@ function Certification() {
           <p>Java and Object-Oriented Programming</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/certificate/KVTJ36RDQEVZ"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -77,7 +77,7 @@ function Certification() {
           <p>Certification 6</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/US29KC889GYL"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -90,7 +90,7 @@ function Certification() {
           <p>Certification 7</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/L6SH3HLAUQE8"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -103,7 +103,7 @@ function Certification() {
           <p>Certification 8</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/DDN2WVM4V7CL"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -116,7 +116,7 @@ function Certification() {
           <p>Certification 9</p>
         </a>
         <a
-          href="coursera.org/account/accomplishments/verify/AEBNEJY47UAP"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -128,7 +128,7 @@ function Certification() {
           />
           <p>Certification 10</p>
         </a> <a
-          href="https://www.coursera.org/account/accomplishments/verify/BLQ1XZUZ044M"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -141,7 +141,7 @@ function Certification() {
           <p>Certification 11</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/HQRD7UAHGYZX"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -155,7 +155,7 @@ function Certification() {
         </a>
 
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/8V7FGFZMB1WU"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -168,7 +168,7 @@ function Certification() {
           <p>Certification 1</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/UODNESKTEZHP"
+          href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"

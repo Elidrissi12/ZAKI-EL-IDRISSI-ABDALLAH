@@ -46,6 +46,6 @@ export const Email = styled.div`
   }
 
   .PrimaryBtn:hover {
-    background-color: #e07b00; /* Orange foncé au survol */
+    background-color:rgb(104, 0, 224); /* Orange foncé au survol */
   }
 `;

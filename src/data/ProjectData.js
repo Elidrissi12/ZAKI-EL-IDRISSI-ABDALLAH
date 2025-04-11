@@ -25,7 +25,7 @@ export const ProjectList = [
     description:
       "A web application for creating UML class diagrams where users can define classes, attributes, and methods, and automatically generate  code in Python, PHP, and Java.",
     tech_stack: ["React"],
-    github_url: "https://github.com/achrafmz/umlApp",
+    github_url: "https://github.com/Elidrissi12/UML-APP",
     demo_url: "https://uml-app.vercel.app/",
   },
   {
