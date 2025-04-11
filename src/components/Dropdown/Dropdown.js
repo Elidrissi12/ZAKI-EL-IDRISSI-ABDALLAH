@@ -96,7 +96,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://www.linkedin.com/in/achraf-mazouz-b308481a1/"
+          href="https://www.linkedin.com/in/abdallah-zaki-el-idrissi-23484121b/"
           target="_blank"
           rel="noopener noreferrer"
         >

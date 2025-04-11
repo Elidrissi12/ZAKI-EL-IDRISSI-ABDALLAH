@@ -10,7 +10,7 @@ function Certification() {
       <div className="certificates">
         {/* Certification 1 */}
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/BLQ1XZUZ044M"
+          href="https://coursera.org/share/b02f169c6d47ed5a6b9efa5f82811413"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -20,12 +20,12 @@ function Certification() {
             alt="Certification 1"
             className="certificate-image"
           />
-          <p>Certification 1</p>
+          <p>Scrum Master Profession</p>
         </a>
 
         {/* Certification 2 */}
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/6LQQ7XD2JZN2"
+          href="https://coursera.org/share/bc4e7884d85063187c799b86c1c0d699"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -35,7 +35,7 @@ function Certification() {
             alt="Certification 2"
             className="certificate-image"
           />
-          <p>Certification 3</p>
+          <p>React Basics</p>
         </a>
         <a
           href=""
@@ -51,7 +51,7 @@ function Certification() {
           <p>Certification 4</p>
         </a>
         <a
-          href="https://www.coursera.org/account/accomplishments/verify/PEJMWDNEN7Q4"
+          href="https://coursera.org/share/90804cd58eed9e1016b32a6b7552f5d9"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
@@ -61,7 +61,7 @@ function Certification() {
             alt="Certification 1"
             className="certificate-image"
           />
-          <p>Certification 5</p>
+          <p>Java and Object-Oriented Programming</p>
         </a>
         <a
           href="https://www.coursera.org/account/accomplishments/certificate/KVTJ36RDQEVZ"
