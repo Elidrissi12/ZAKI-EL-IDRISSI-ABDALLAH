@@ -44,7 +44,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/unix.png"
+            src="/images/unix.jpg"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -57,7 +57,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/uml.png"
+            src="/images/uml.jpg"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -70,7 +70,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/html.png"
+            src="/images/spring.jpg"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -83,7 +83,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/SQL.png"
+            src="/images/SQL.jpg"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -122,7 +122,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/web.png"
+            src="/images/web.jpg"
             alt="Certification 1"
             className="certificate-image"
           />
