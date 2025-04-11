@@ -72,22 +72,22 @@ export const BtnGroup = styled.div`
   }
 
   .PrimaryBtn {
-    background-color: #ff8c00; /* Orange */
+    background-color:rgb(111, 0, 255); /* Orange */
     color: #ffffff; /* Blanc */
   }
 
   .PrimaryBtn:hover {
-    background-color: #e07b00; /* Orange foncé au survol */
+    background-color:rgb(93, 0, 224); /* Orange foncé au survol */
   }
 
   .SecondaryBtn {
     background-color: #ffffff; /* Blanc */
-    color: #ff8c00; /* Orange */
-    border: 2px solid #ff8c00;
+    color:rgb(72, 0, 255); /* Orange */
+    border: 2px solidrgb(102, 0, 255);
   }
 
   .SecondaryBtn:hover {
-    background-color: #ff8c00;
+    background-color:rgb(115, 0, 255);
     color: #ffffff;
   }
 `;

@@ -41,7 +41,7 @@ export const Email = styled.div`
   }
 
   .PrimaryBtn {
-    background-color: #ff8c00; /* Orange */
+    background-color:rgb(68, 0, 255); /* Orange */
     color: #ffffff; /* Blanc */
   }
 

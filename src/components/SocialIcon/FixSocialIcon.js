@@ -21,7 +21,7 @@ const SocialContainer = styled.div`
     font-size: 2.3rem;
     color: rgb(119, 119, 121);
     &:hover {
-      color: rgb(233, 114, 10);
+      color: rgb(129, 10, 233);
     }
   }
 
@@ -41,7 +41,7 @@ const SocialContainer = styled.div`
       font-size: 2.5rem;
       color: #151418;
       &:hover {
-        color: rgb(226, 104, 11);
+        color: rgb(104, 11, 226);
       }
     }
 

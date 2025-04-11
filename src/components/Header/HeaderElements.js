@@ -58,7 +58,7 @@ export const NavBtn = styled.div`
   margin-right: 24px;
 
   .btn {
-    background-color: #ff8c00; /* Orange */
+    background-color:rgb(102, 0, 255); /* Orange */
     color: #ffffff; /* Blanc */
     padding: 10px 20px;
     font-size: 1rem;
