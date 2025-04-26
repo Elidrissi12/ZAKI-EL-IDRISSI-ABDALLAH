@@ -6,7 +6,7 @@ export const ProjectList = [
     description:
       "A cross-platform desktop application that streamlines donation management for associations, providing efficient tracking and transparent reporting.",
     tech_stack: ["Java Fx", "Css", "MySQL"],
-    github_url: "https://github.com/achrafmz/GestionDonsJava",
+    github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
   },
   {
@@ -15,7 +15,7 @@ export const ProjectList = [
     description:
       "A dynamic web application for e-commerce that integrates a smart chatbot to assist customers with product recommendations, order tracking, and customer support in real time. ",
     tech_stack: ["Html", "Css", "JavaScript", "Django"],
-    github_url: "https://github.com/achrafmz/Bi3Smart",
+    github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
     
   },
@@ -25,25 +25,25 @@ export const ProjectList = [
     description:
       "A web application for creating UML class diagrams where users can define classes, attributes, and methods, and automatically generate  code in Python, PHP, and Java.",
     tech_stack: ["React"],
-    github_url: "https://github.com/Elidrissi12/UML-APP",
+    github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "https://uml-app.vercel.app/",
   },
   {
     img: "/images/dalwali.png",
-    title: "Restaurant Dar Lwali",
+    title: "CLINIDENT",
     description:
       "A web application for restaurant reservations, allowing customers to easily book tables online. Users can select the date and time, and number of people, and receive instant booking confirmations. The app also provides features for managing reservations, checking availability.",
     tech_stack: ["Html", "Css", "javascript", "Django"],
-    github_url: "https://github.com/achrafmz/Darlwali-Restaurant",
+    github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
   },
   {
-    img: "/images/power.png",
-    title: "Power Fitness",
+    img: "/images/IMAR.jpg",
+    title: "IMAR HOTEL",
     description:
       "A web application for a gym where users can easily book a free trial session. The platform also includes a management system for administrators to handle memberships, organize workout sessions, and monitor member bookings for free trials. Admins can update pricing information.",
     tech_stack: ["html", "css", "javascript", "PHP", "MySQL"],
-    github_url: "https://github.com/achrafmz/projet-ge-stion-d-un-salle-de-sport-en-php",
+    github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
   },
 ];
