@@ -29,7 +29,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
   <a
     className="btn"
-    href="https://www.linkedin.com/in/abdallah-zaki-el-idrissi-23484121b/"
+    href="/zaki el idrissi abdallah.pdf"
     target="_blank"
     rel="noopener noreferrer"
   >
