@@ -11,16 +11,14 @@ body {
   font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #fafaff;
+  background: linear-gradient(135deg, #0f0c29, #302b63 40%, #24243e);
   font-weight: 400;
   overflow-x: hidden;
+  color: #e8e8f2;
 }
 
 main {
-  background: #151418;
-  background-image: url('../public/blob-haikei.svg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: transparent;
   width: 100%;
 }
 
@@ -87,24 +85,26 @@ video {
 .PrimaryBtn {
   padding: 12px 20px;
   border: none;
-  background: rgb(57, 134, 250);
+  background: linear-gradient(135deg, #7f5af0, #22d3ee);
   color: #f6f6f6;
+  box-shadow: 0 10px 25px rgba(127, 90, 240, 0.25);
 }
 
 .SecondaryBtn{
   padding: 10px 18px;
-  border: 2px solid rgb(57, 134, 250);
-  color: #010606;
+  border: 2px solid #7f5af0;
+  color: #f6f6f6;
   margin-right: 1rem;
+  background: rgba(255,255,255,0.04);
 }
 
 .PrimaryBtn:hover {
-  background: rgb(18, 111, 250);
+  filter: brightness(1.05);
 }
 
 .SecondaryBtn:hover {
-  background: #e7f1fa;
-  color: #000
+  background: rgba(255,255,255,0.08);
+  color: #fff
 }
 
 .Container {
@@ -124,23 +124,26 @@ video {
   border-radius: 1rem;
   display: flex;
   flex-direction: column;
-  background: #fff;
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
 }
 
 .AboutBio{
   text-align: justify;
   max-width: 750px;
   margin: 0 auto;
-  color: #151418;
-  line-height: 1.6;
+  color: #e8e8f2;
+  line-height: 1.75;
 }
 
 .tagline2 {
   text-align: left;
   max-width: 650px;
   margin: 0;
-  color: #151418;
+  color: #cfd4ff;
   line-height: 1.6;
 }
 
@@ -151,9 +154,10 @@ video {
 
 .SectionTitle {
   font-size: 28px;
-  color: #151418;
-  font-weight: 700;
+  color: #ffffff;
+  font-weight: 800;
   margin-bottom: 3.5rem;
+  letter-spacing: 0.5px;
 }
 .ProjectWrapper {
   margin-top: -1rem;

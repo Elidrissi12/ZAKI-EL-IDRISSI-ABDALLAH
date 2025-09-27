@@ -9,6 +9,10 @@ import {
   Image,
   ScrollDown,
   ScrollLink,
+  Banner,
+  BigTitle,
+  BigTitleOutline,
+  BannerImage,
 } from "./HeroElements";
 import { TypeAnimation } from 'react-type-animation';
 import ScrollAnimation from "react-animate-on-scroll";
@@ -26,6 +30,9 @@ function Hero() {
       <Dropdown isOpen={isOpen} toggle={toggle} />
       <Header toggle={toggle} />
       <HeroContainer>
+        <Banner>
+          <BannerImage src="/images/zak.png" alt="Portrait" />
+        </Banner>
         <HeroWrapper>
           <HeroLeft>
             <ScrollAnimation animateIn="fadeIn" >
@@ -66,8 +73,7 @@ function Hero() {
             <ScrollAnimation animateIn="fadeIn">
   <Image
     src="/images/ph.png"
-    alt="man-svgrepo"
-    style={{ width: '400px', height: 'auto' }} // Changez les dimensions selon vos besoins
+    alt="Portrait"
   />
 </ScrollAnimation>
 

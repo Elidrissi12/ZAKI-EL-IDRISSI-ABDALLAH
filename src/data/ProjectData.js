@@ -1,21 +1,21 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/images/dons.png",
-    title: "Association Najd",
+    img: "/images/plant.png",
+    title: "Plant PFA — Détection des maladies des plantes",
     description:
-      "A cross-platform desktop application that streamlines donation management for associations, providing efficient tracking and transparent reporting.",
-    tech_stack: ["Java Fx", "Css", "MySQL"],
-    github_url: "https://github.com/Elidrissi12?tab=repositories",
-    demo_url: "",
+      "Application web d'analyse et de détection des maladies des plantes à partir d'images, avec interface de prédiction et visualisation des résultats.",
+    tech_stack: ["React", "Python", "FastAPI", "TensorFlow"],
+    github_url: "",
+    demo_url: "https://plant-app-elidrissi.vercel.app/",
   },
   {
-    img: "/images/bismart.png",
-    title: "BI3SMART",
+    img: "/images/homework.png",
+    title: "Gestion des devoirs",
     description:
-      "A dynamic web application for e-commerce that integrates a smart chatbot to assist customers with product recommendations, order tracking, and customer support in real time. ",
-    tech_stack: ["Html", "Css", "JavaScript", "Django"],
-    github_url: "https://github.com/Elidrissi12?tab=repositories",
+      "Plateforme de gestion des devoirs pour enseignants et étudiants: création, dépôt, suivi et notifications.",
+    tech_stack: ["React", "Node.js", "Express", "MongoDB"],
+    github_url: "",
     demo_url: "",
     
   },
@@ -26,14 +26,14 @@ export const ProjectList = [
       "A web application for creating UML class diagrams where users can define classes, attributes, and methods, and automatically generate  code in Python, PHP, and Java.",
     tech_stack: ["React"],
     github_url: "https://github.com/Elidrissi12?tab=repositories",
-    demo_url: "https://uml-app.vercel.app/",
+    demo_url: "https://front-uml-zaki.vercel.app/",
   },
   {
     img: "/images/dalwali.png",
-    title: "CLINIDENT",
+    title: "Clinident — Gestion de clinique dentaire",
     description:
-      "A web application for restaurant reservations, allowing customers to easily book tables online. Users can select the date and time, and number of people, and receive instant booking confirmations. The app also provides features for managing reservations, checking availability.",
-    tech_stack: ["Html", "Css", "javascript", "Django"],
+      "Application Java de gestion d'une clinique dentaire: dossiers patients, rendez-vous, traitement, facturation et gestion du personnel, avec base de données et interface bureautique.",
+    tech_stack: ["Java", "JavaFX", "MySQL"],
     github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
   },
