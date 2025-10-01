@@ -9,11 +9,13 @@ import {
   ContactWrapper,
 } from "./AboutElements";
 import ScrollAnimation from "react-animate-on-scroll";
+import { useI18n } from "../../i18n";
 function About() {
+  const { t } = useI18n();
   return (
     <ContactWrapper id="about">
       <div className="Container">
-        <div className="SectionTitle">About Me</div>
+        <div className="SectionTitle">{t('sections.about')}</div>
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
          

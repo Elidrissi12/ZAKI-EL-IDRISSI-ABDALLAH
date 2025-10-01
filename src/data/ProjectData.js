@@ -2,37 +2,37 @@
 export const ProjectList = [
   {
     img: "/images/plant.png",
-    title: "Plant PFA — Détection des maladies des plantes",
+    title: "PlantGuard — Plant Disease Detection",
     description:
-      "Application web d'analyse et de détection des maladies des plantes à partir d'images, avec interface de prédiction et visualisation des résultats.",
+      "Web application for analyzing and detecting plant diseases from images, with a prediction interface and results visualization.",
     tech_stack: ["React", "Python", "FastAPI", "TensorFlow"],
-    github_url: "",
+    github_url: "https://github.com/Elidrissi12/plant-pfa",
     demo_url: "https://plant-app-elidrissi.vercel.app/",
   },
   {
     img: "/images/homework.png",
-    title: "Gestion des devoirs",
+    title: "Homework Management",
     description:
-      "Plateforme de gestion des devoirs pour enseignants et étudiants: création, dépôt, suivi et notifications.",
+      "Platform for teachers and students to create, submit, track assignments, with alerts and notifications.",
     tech_stack: ["React", "Node.js", "Express", "MongoDB"],
-    github_url: "",
+    github_url: "https://github.com/Elidrissi12/devoir-backend",
     demo_url: "",
     
   },
   {
     img: "/images/umlap.png",
-    title: "Editeur  diagramme de classes",
+    title: "UML Class Diagram Editor",
     description:
-      "A web application for creating UML class diagrams where users can define classes, attributes, and methods, and automatically generate  code in Python, PHP, and Java.",
+      "Web application to create UML class diagrams where users define classes, attributes, and methods, and automatically generate code in Python, PHP, and Java.",
     tech_stack: ["React"],
-    github_url: "https://github.com/Elidrissi12?tab=repositories",
+    github_url: "https://github.com/Elidrissi12/plant-pfa",
     demo_url: "https://front-uml-zaki.vercel.app/",
   },
   {
     img: "/images/dalwali.png",
-    title: "Clinident — Gestion de clinique dentaire",
+    title: "Clinident — Dental Clinic Management",
     description:
-      "Application Java de gestion d'une clinique dentaire: dossiers patients, rendez-vous, traitement, facturation et gestion du personnel, avec base de données et interface bureautique.",
+      "Java desktop application for dental clinic management: patient records, appointments, treatment, billing, and staff management with database integration.",
     tech_stack: ["Java", "JavaFX", "MySQL"],
     github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
@@ -41,8 +41,8 @@ export const ProjectList = [
     img: "/images/IMAR.jpg",
     title: "IMAR HOTEL",
     description:
-      "A web application for a gym where users can easily book a free trial session. The platform also includes a management system for administrators to handle memberships, organize workout sessions, and monitor member bookings for free trials. Admins can update pricing information.",
-    tech_stack: ["html", "css", "javascript", "PHP", "MySQL"],
+      "Application web et desktop en C# pour la gestion complète des réservations et de tous les composants de l'hôtel: chambres, clients, paiements, planning, reporting et administration.",
+    tech_stack: ["C#", ".NET", "ASP.NET Core", "WPF/WinForms", "SQL Server"],
     github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",
   },

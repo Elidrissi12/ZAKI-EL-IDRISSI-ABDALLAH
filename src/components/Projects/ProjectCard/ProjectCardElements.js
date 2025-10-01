@@ -34,6 +34,7 @@ export const CardRight = styled.div`
   h4 {
     font-size: 1.5rem;
     font-weight: 400;
+    color: #f3f4f6;
   }
 
   p {
@@ -41,7 +42,7 @@ export const CardRight = styled.div`
     max-width: 95%;
     margin-top: 10px;
     margin-bottom: 1rem;
-    color: rgba(0, 0, 0, 0.815);
+    color: rgba(243, 244, 246, 0.92);
     text-align: center;
 
     @media (min-width: 992px) {
@@ -72,22 +73,22 @@ export const BtnGroup = styled.div`
   }
 
   .PrimaryBtn {
-    background-color:rgb(111, 0, 255); /* Orange */
-    color: #ffffff; /* Blanc */
+    background-color: rgb(68, 0, 255);
+    color: #ffffff;
   }
 
   .PrimaryBtn:hover {
-    background-color:rgb(93, 0, 224); /* Orange foncé au survol */
+    background-color: rgb(104, 0, 224);
   }
 
   .SecondaryBtn {
-    background-color: #ffffff; /* Blanc */
-    color:rgb(72, 0, 255); /* Orange */
-    border: 2px solidrgb(102, 0, 255);
+    background-color: transparent;
+    color: rgb(68, 0, 255);
+    border: 2px solid rgb(68, 0, 255);
   }
 
   .SecondaryBtn:hover {
-    background-color:rgb(115, 0, 255);
+    background-color: rgb(104, 0, 224);
     color: #ffffff;
   }
 `;

@@ -1,6 +1,8 @@
 import React from "react";
 import ProjectCard from "./ProjectCard/ProjectCard";
+import { useI18n } from "../../i18n";
 function Projects() {
+  const { t } = useI18n();
   return (
     <>
       <svg
@@ -20,7 +22,7 @@ function Projects() {
       </svg>
       <div className="ProjectWrapper" id="projects">
         <div className="Container">
-          <div className="SectionTitle">Projects</div>
+          <div className="SectionTitle">{t('sections.projects')}</div>
           <ProjectCard />
         </div>
       </div>

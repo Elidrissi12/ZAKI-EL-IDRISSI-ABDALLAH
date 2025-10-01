@@ -5,7 +5,9 @@ import { IconButton, Tooltip } from "@mui/material";
 import Zoom from '@mui/material/Zoom';
 
 import ScrollAnimation from "react-animate-on-scroll";
+import { useI18n } from "../../i18n";
 function Contact() {
+  const { t } = useI18n();
   const [showTooltip, setShowTooltip] = useState(false);
   const copyToClipboard = () => {
     navigator.clipboard.writeText("elidrissiabdallah689@gmail.com");
@@ -19,7 +21,7 @@ function Contact() {
     <ContactWrapper id="contact">
 
       <div className="Container">
-        <div className="SectionTitle">Get In Touch</div>
+        <div className="SectionTitle">{t('sections.contact')}</div>
         <ScrollAnimation animateIn="fadeIn" >
           <div className="BigCard">
           <Email>

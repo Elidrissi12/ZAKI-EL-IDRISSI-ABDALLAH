@@ -1,7 +1,9 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import { useI18n } from "../../i18n";
 
 const Header = ({ toggle }) => {
+  const { t, toggle: toggleLang } = useI18n();
   return (
     <div className="Container" style={{padding: 0}}>
       <Nav>
@@ -14,29 +16,32 @@ const Header = ({ toggle }) => {
 
         <NavMenu>
           <NavLink className="menu-item" to="projects">
-            Projects
+            {t('nav.projects')}
           </NavLink>
           <NavLink className="menu-item" to="stages">
-            Stages
+            {t('nav.stages')}
           </NavLink>
           <NavLink className="menu-item" to="about">
-            About
+            {t('nav.about')}
           </NavLink>
           <NavLink className="menu-item" to="contact">
-            Contact
+            {t('nav.contact')}
           </NavLink>
           <NavLink className="menu-item" to="certification">
-            Certification
+            {t('nav.certification')}
           </NavLink>
         </NavMenu>
         <NavBtn>
+  <button className="btn" onClick={toggleLang} style={{marginRight: '10px'}}>
+    {t('nav.toggle')}
+  </button>
   <a
     className="btn"
     href="/zaki el idrissi abdallah.pdf"
     target="_blank"
     rel="noopener noreferrer"
   >
-    Resume
+    {t('nav.resume')}
   </a>
 </NavBtn>
 

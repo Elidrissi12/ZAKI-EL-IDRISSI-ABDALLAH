@@ -58,8 +58,8 @@ export const NavBtn = styled.div`
   margin-right: 24px;
 
   .btn {
-    background-color:rgb(102, 0, 255); /* Orange */
-    color: #ffffff; /* Blanc */
+    background-color: rgb(68, 0, 255);
+    color: #ffffff;
     padding: 10px 20px;
     font-size: 1rem;
     font-weight: bold;
@@ -71,7 +71,7 @@ export const NavBtn = styled.div`
   }
 
   .btn:hover {
-    background-color: #e07b00; /* Orange plus foncé au survol */
+    background-color: rgb(104, 0, 224);
   }
 
   @media screen and (max-width: 768px) {

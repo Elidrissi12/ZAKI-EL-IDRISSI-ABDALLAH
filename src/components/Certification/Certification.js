@@ -2,11 +2,13 @@
 
 import React from "react";
 import "./Certification.css";
+import { useI18n } from "../../i18n";
 
 function Certification() {
+  const { t } = useI18n();
   return (
     <section id="certification">
-      <h2>Certifications</h2>
+      <h2>{t('sections.certifications')}</h2>
       <div className="certificates">
         {/* Certification 1 */}
         <a
@@ -17,7 +19,8 @@ function Certification() {
         >
           <img
             src="/images/react.png"
-            alt="Certification 1"
+            alt="Scrum Master Profession certificate"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Scrum Master Profession</p>
@@ -32,7 +35,8 @@ function Certification() {
         >
           <img
             src="/images/java.png"
-            alt="Certification 2"
+            alt="React Basics certificate"
+            loading="lazy"
             className="certificate-image"
           />
           <p>React Basics</p>
@@ -45,7 +49,8 @@ function Certification() {
         >
           <img
             src="/images/style.png"
-            alt="Certification 1"
+            alt="Certification 4"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 4</p>
@@ -58,7 +63,8 @@ function Certification() {
         >
           <img
             src="/images/arduino.jpg"
-            alt="Certification 1"
+            alt="Java and Object-Oriented Programming certificate"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Java and Object-Oriented Programming</p>
@@ -71,7 +77,8 @@ function Certification() {
         >
           <img
             src="/images/azuremicrosoft.jpg"
-            alt="Certification 1"
+            alt="Certification 6"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 6</p>
@@ -84,7 +91,8 @@ function Certification() {
         >
           <img
             src="/images/SQL.jpg"
-            alt="Certification 1"
+            alt="Certification 7"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 7</p>
@@ -97,7 +105,8 @@ function Certification() {
         >
           <img
             src="/images/c.png"
-            alt="Certification 1"
+            alt="Certification 8"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 8</p>
@@ -110,7 +119,8 @@ function Certification() {
         >
           <img
             src="/images/entreprise.jpg"
-            alt="Certification 1"
+            alt="Certification 9"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 9</p>
@@ -123,7 +133,8 @@ function Certification() {
         >
           <img
             src="/images/google.jpg"
-            alt="Certification 1"
+            alt="Certification 10"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 10</p>
@@ -135,7 +146,8 @@ function Certification() {
         >
           <img
             src="/images/scrum.png"
-            alt="Certification 1"
+            alt="Certification 11"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 11</p>
@@ -148,7 +160,8 @@ function Certification() {
         >
           <img
             src="/images/computer.jpg"
-            alt="Certification 1"
+            alt="Certification 12"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 12</p>
@@ -162,7 +175,8 @@ function Certification() {
         >
           <img
             src="/images/docker.PNG"
-            alt="Certification 1"
+            alt="Certification Docker"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 1</p>
@@ -175,7 +189,8 @@ function Certification() {
         >
           <img
             src="/images/azure.PNG"
-            alt="Certification 1"
+            alt="Certification Azure"
+            loading="lazy"
             className="certificate-image"
           />
           <p>Certification 1</p>
