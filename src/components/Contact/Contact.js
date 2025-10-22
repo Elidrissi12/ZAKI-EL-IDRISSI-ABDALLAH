@@ -10,7 +10,7 @@ function Contact() {
   const { t } = useI18n();
   const [showTooltip, setShowTooltip] = useState(false);
   const copyToClipboard = () => {
-    navigator.clipboard.writeText("elidrissiabdallah689@gmail.com");
+    navigator.clipboard.writeText("zakielidrissiabdallah@gmail.com");
     setShowTooltip(true);
     setTimeout(() => {
       setShowTooltip(false);
@@ -35,7 +35,7 @@ function Contact() {
       justifyContent: "center",
     }}
   >
-    <span>elidrissiabdallah689@gmail.com</span>
+    <span>zakielidrissiabdallah@gmail.com</span>
     <Tooltip
       PopperProps={{
         disablePortal: true,
@@ -59,7 +59,7 @@ function Contact() {
   </div>
   <a
     className="btn PrimaryBtn btn-shadow"
-    href="mailto:elidrissiabdallah689@gmail.com"
+    href="mailto:zakielidrissiabdallah@gmail.com"
     target="_blank"
     rel="noopener noreferrer"
   >

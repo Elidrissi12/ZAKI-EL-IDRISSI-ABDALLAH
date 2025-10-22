@@ -3,7 +3,7 @@ import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 import { useI18n } from "../../i18n";
 
 const Header = ({ toggle }) => {
-  const { t, toggle: toggleLang } = useI18n();
+  const { t } = useI18n();
   return (
     <div className="Container" style={{padding: 0}}>
       <Nav>
@@ -32,9 +32,6 @@ const Header = ({ toggle }) => {
           </NavLink>
         </NavMenu>
         <NavBtn>
-  <button className="btn" onClick={toggleLang} style={{marginRight: '10px'}}>
-    {t('nav.toggle')}
-  </button>
   <a
     className="btn"
     href="/zaki el idrissi abdallah.pdf"

@@ -49,11 +49,11 @@ function Certification() {
         >
           <img
             src="/images/style.png"
-            alt="Certification 4"
+            alt="CSS and Styling certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 4</p>
+          <p>CSS and Styling</p>
         </a>
         <a
           href="https://coursera.org/share/fc9a81062fba860b36f06005cbf02d9e"
@@ -77,11 +77,11 @@ function Certification() {
         >
           <img
             src="/images/azuremicrosoft.jpg"
-            alt="Certification 6"
+            alt="Microsoft Azure certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 6</p>
+          <p>Microsoft Azure</p>
         </a>
         <a
           href="https://coursera.org/share/845235fe31fca41ce200c31060299284"
@@ -91,11 +91,11 @@ function Certification() {
         >
           <img
             src="/images/SQL.jpg"
-            alt="Certification 7"
+            alt="SQL Database certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 7</p>
+          <p>SQL Database</p>
         </a>
         <a
           href="https://coursera.org/share/427b959103da3953499bca422da63b3a"
@@ -105,11 +105,11 @@ function Certification() {
         >
           <img
             src="/images/c.png"
-            alt="Certification 8"
+            alt="C Programming certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 8</p>
+          <p>C Programming</p>
         </a>
         <a
           href="https://coursera.org/share/0ee2cdc93e9864dc9de3f1171853b73b"
@@ -119,11 +119,11 @@ function Certification() {
         >
           <img
             src="/images/entreprise.jpg"
-            alt="Certification 9"
+            alt="Enterprise Development certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 9</p>
+          <p>Enterprise Development</p>
         </a>
         <a
           href="https://coursera.org/share/45a83df8ba3522d4391fc96fea4d1d12"
@@ -133,12 +133,12 @@ function Certification() {
         >
           <img
             src="/images/google.jpg"
-            alt="Certification 10"
+            alt="Google Cloud certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 10</p>
-        </a> <a
+          <p>Google Cloud</p>
+        </a>         <a
           href="https://coursera.org/share/204f600a826b0bd194eea972cb3f332a"
           target="_blank"
           rel="noopener noreferrer"
@@ -146,11 +146,11 @@ function Certification() {
         >
           <img
             src="/images/scrum.png"
-            alt="Certification 11"
+            alt="Agile and Scrum certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 11</p>
+          <p>Agile and Scrum</p>
         </a>
         <a
           href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
@@ -160,11 +160,11 @@ function Certification() {
         >
           <img
             src="/images/computer.jpg"
-            alt="Certification 12"
+            alt="Computer Science certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 12</p>
+          <p>Computer Science</p>
         </a>
 
         <a
@@ -175,11 +175,11 @@ function Certification() {
         >
           <img
             src="/images/docker.PNG"
-            alt="Certification Docker"
+            alt="Docker certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 1</p>
+          <p>Docker</p>
         </a>
         <a
           href="https://coursera.org/share/c4598902445d538624782f04fa214b23"
@@ -189,11 +189,25 @@ function Certification() {
         >
           <img
             src="/images/azure.PNG"
-            alt="Certification Azure"
+            alt="Azure Cloud certificate"
             loading="lazy"
             className="certificate-image"
           />
-          <p>Certification 1</p>
+          <p>Azure Cloud</p>
+        </a>
+        <a
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-card"
+        >
+          <img
+            src="/images/virtualisation.png"
+            alt="VMware Virtualization 101 certificate"
+            loading="lazy"
+            className="certificate-image"
+          />
+          <p>VMware Virtualization 101</p>
         </a>
         {/* Add more certifications as needed */}
       </div>
