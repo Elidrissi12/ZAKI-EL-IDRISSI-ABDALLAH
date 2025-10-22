@@ -241,10 +241,10 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 **ZAKI EL IDRISSI ABDALLAH**
 
-- 📧 **Email** : [Votre email]
-- 💼 **LinkedIn** : [Votre LinkedIn]
+- 📧 **Email** : [zakielidrissiabdallah@gmail.com]
+- 💼 **LinkedIn** : [https://www.linkedin.com/in/abdallah-zaki-el-idrissi-23484121b/]
 - 🐙 **GitHub** : [@Elidrissi12](https://github.com/Elidrissi12)
-- 🌐 **Portfolio** : [Votre site web]
+- 🌐 **Portfolio** : [https://zaki-el-idrissi-abdallah.vercel.app/]
 
 ## 📄 Licence
 
