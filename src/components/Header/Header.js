@@ -34,7 +34,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
   <a
     className="btn"
-    href="/zaki el idrissi abdallah.pdf"
+    href="/CV Abdallah-ZAKI-EL-IDRISSI.pdf"
     target="_blank"
     rel="noopener noreferrer"
   >
