@@ -41,7 +41,7 @@ export const ProjectList = [
     img: "/images/IMAR.jpg",
     title: "IMAR HOTEL",
     description:
-      "Application web et desktop en C# pour la gestion complète des réservations et de tous les composants de l'hôtel: chambres, clients, paiements, planning, reporting et administration.",
+      "C# web and desktop application for complete hotel management: rooms, guests, payments, scheduling, reporting, and administration.",
     tech_stack: ["C#", ".NET", "ASP.NET Core", "WPF/WinForms", "SQL Server"],
     github_url: "https://github.com/Elidrissi12?tab=repositories",
     demo_url: "",

@@ -6,12 +6,9 @@ import {
   HeroWrapper,
   HeroLeft,
   HeroRight,
-  Image,
   ScrollDown,
   ScrollLink,
   Banner,
-  BigTitle,
-  BigTitleOutline,
   BannerImage,
 } from "./HeroElements";
 import { TypeAnimation } from 'react-type-animation';
@@ -69,15 +66,7 @@ function Hero() {
             </ScrollAnimation>
 
           </HeroLeft>
-          <HeroRight>
-            <ScrollAnimation animateIn="fadeIn">
-  <Image
-    src="/images/ph.png"
-    alt="Portrait"
-  />
-</ScrollAnimation>
-
-          </HeroRight>
+          <HeroRight></HeroRight>
         </HeroWrapper>
         {showScrollDown &&<ScrollAnimation animateIn="flipInX" offset={0}>
         <ScrollDown to="projects" id="scrollDown">

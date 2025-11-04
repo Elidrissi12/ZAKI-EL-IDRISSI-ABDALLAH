@@ -7,6 +7,7 @@ import About from "../components/About/About";
 import Contact from "../components/Contact/Contact";
 import Certification from "../components/Certification/Certification"; // Import Certification
 import Stages from "../components/Stages/Stages";
+import DomainsPFE from "../components/DomainsPFE/DomainsPFE";
 import Footer from "../components/Footer/Footer";
 import FixSocialIcon from "../components/SocialIcon/FixSocialIcon";
 import ScrollToTop from "../components/SocialIcon/ScrollToTop";
@@ -16,6 +17,7 @@ function Home() {
     <>
       <Hero />
       <Projects />
+      <DomainsPFE />
       <Stages />
       <About />
       <Certification /> {/* Add Certification section */}

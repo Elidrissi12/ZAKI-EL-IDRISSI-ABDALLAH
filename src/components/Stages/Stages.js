@@ -12,10 +12,10 @@ function Stages() {
             <h3>BCSkills — Safi</h3>
             <img src="/images/bcskills.jpg" alt="BCSkills building" loading="lazy" style={{ maxWidth: "220px", width: "100%", borderRadius: "8px", margin: "10px 0" }} />
             <p>
-              Stage réalisé chez <strong>BCSkills</strong> à <strong>Safi</strong>.
-              Missions principales: participation au développement d'applications,
-              intégration d'interfaces et collaboration avec l'équipe pour
-              améliorer la qualité du code et des livrables.
+              Internship completed at <strong>BCSkills</strong> in <strong>Safi</strong>.
+              Main responsibilities: contributing to application development,
+              UI integration, and collaborating with the team to improve
+              code quality and deliverables.
             </p>
           </div>
           <hr />
@@ -23,10 +23,10 @@ function Stages() {
             <h3>NORSYS Afrique — Marrakech</h3>
             <img src="/images/norsys.jpg" alt="NORSYS Afrique logo" loading="lazy" style={{ maxWidth: "220px", width: "100%", borderRadius: "8px", margin: "10px 0" }} />
             <p>
-              Stage réalisé chez <strong>NORSYS Afrique</strong> à <strong>Marrakech</strong>.
-              Missions principales: contribution à des projets web, mise en place
-              de fonctionnalités, bonnes pratiques et travail en environnement
-              agile.
+              Internship completed at <strong>NORSYS Afrique</strong> in <strong>Marrakech</strong>.
+              Main responsibilities: contributing to web projects, implementing
+              features, following best practices, and working in an agile
+              environment.
             </p>
           </div>
         </div>

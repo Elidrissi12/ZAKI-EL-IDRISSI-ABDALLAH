@@ -174,7 +174,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/docker.PNG"
+            src="/images/docker.png"
             alt="Docker certificate"
             loading="lazy"
             className="certificate-image"
@@ -188,7 +188,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/azure.PNG"
+            src="/images/azure.png"
             alt="Azure Cloud certificate"
             loading="lazy"
             className="certificate-image"
@@ -208,6 +208,20 @@ function Certification() {
             className="certificate-image"
           />
           <p>VMware Virtualization 101</p>
+        </a>
+        <a
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-card"
+        >
+          <img
+            src="/images/kaggle.jpg"
+            alt="Kaggle - Data Visualization certificate"
+            loading="lazy"
+            className="certificate-image"
+          />
+          <p>Kaggle - Data Visualization</p>
         </a>
         {/* Add more certifications as needed */}
       </div>
