@@ -210,7 +210,7 @@ function Certification() {
           <p>VMware Virtualization 101</p>
         </a>
         <a
-          href="#"
+          href="https://www.kaggle.com/learn/certification/abdallahelidrissi/data-visualization"
           target="_blank"
           rel="noopener noreferrer"
           className="certificate-card"
